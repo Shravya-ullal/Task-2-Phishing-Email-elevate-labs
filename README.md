@@ -1,10 +1,9 @@
 # Task-2-Phishing-Email-elevate-labs
-Task 2 :Phishing email
 ============================================
 PHISHING EMAIL ANALYSIS - README
 ============================================
 
-This document provides an analysis of 3 suspicious emails identified as potential phishing attempts. The accompanying PDF report summarizes key findings and safety recommendations.
+This document provides an analysis of 3 suspicious emails got for my gmail account identified as potential phishing attempts . The accompanying PDF report summarizes key findings and safety recommendations.
 
 ---
 
@@ -48,11 +47,6 @@ This document provides an analysis of 3 suspicious emails identified as potentia
 - 🔴 Spelling/grammar errors
 
 ---
-
-### SUPPORT
-For questions:
-- Email: security@yourorganization.com
-- Internal ticket system: Submit under "Security Concerns"
 
 ============================================
 Last updated: 2025-06-25 | v1.0
